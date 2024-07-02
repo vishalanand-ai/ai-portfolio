@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ai-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/ai-portfolio/static/js/main.c4812ae1.js",
+    "static/media/HeroImage.jpg": "/ai-portfolio/static/media/HeroImage.101f9682b99ae2972e97.jpg",
+    "index.html": "/ai-portfolio/index.html",
+    "main.bf538fe7.css.map": "/ai-portfolio/static/css/main.bf538fe7.css.map",
+    "main.c4812ae1.js.map": "/ai-portfolio/static/js/main.c4812ae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.c4812ae1.js"
+  ]
+}
