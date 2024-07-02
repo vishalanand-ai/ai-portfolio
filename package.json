@@ -1,7 +1,7 @@
 {
-  "name": "rishav-chanda-portfolio",
+  "name": "vishal-anand",
   "version": "0.1.0",
-  "homepage": "https://rishavchanda.github.io",
+  "homepage": "https://vishalanand-ai.github.io/ai-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
