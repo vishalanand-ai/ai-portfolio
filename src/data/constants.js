@@ -7,7 +7,7 @@ export const Bio = {
     
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a seasoned AI Engineer with nearly 5 years of experience in AI and Machine Learning, holding a Master’s degree from IIT Kharagpur. Currently, I serve as a Senior AI Engineer at Parse.ly (USA), building Generative AI content platforms for world’s largest news and media companies. My career spans roles at Tumblr (USA), Publicis Sapient (India), and Pop Meals (Malaysia), focusing on AI applications in social networking, e-commerce, food delivery, marketing, and operational optimization. I have expertise in LLMs, Deep Learning, Computer Vision, NLP, and Full-Stack ML Engineering.",
   github: "https://github.com/ivishalanand",
   resume:
     "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
@@ -208,7 +208,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://media.licdn.com/dms/image/C560BAQGcE9YWDrZE2Q/company-logo_100_100/0/1657118176989/parsely_inc__logo?e=1729123200&v=beta&t=TT-lOhIVMREEOYBD26MfYllkeGp3Bf28o7embcR2WT8",
     role: "Senior Machine Learning Engineer",
     company: "Parse.ly",
     date: "Jan 2024 - Present",
@@ -228,7 +228,7 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    img: "https://media.licdn.com/dms/image/C560BAQFz42FPUJYyyg/company-logo_100_100/0/1630666602944/tumblr_logo?e=1729123200&v=beta&t=RPL_OY4ZyBjvXAO6UxsBF-RADOebGTvb7FH_BMSUPVE",
     role: "Senior Machine Learning Engineer",
     company: "Tumlr",
     date: "Jul 2022 - Jan 2024",
@@ -245,7 +245,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://media.licdn.com/dms/image/D560BAQFeyhRq13ufxA/company-logo_100_100/0/1719846880166/publicissapient_logo?e=1729123200&v=beta&t=Y3tToMq2QbekuIpCvWXN6CBRFL53F5BE7I6jYMSsJRo",
     role: "Senior Data Scientist",
     company: "Publicis Sapient",
     date: "Nov 2020 - Jul 2022",
@@ -265,7 +265,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
+    img: "https://media.licdn.com/dms/image/C5603AQGzytTeb_56mQ/profile-displayphoto-shrink_800_800/0/1575880117282?e=1726704000&v=beta&t=3jP9X_DQ6o2YuzA8hqCtHNc18j1HNjV4nj7OH7NH9kw",
     role: "Machine Learning Engineer",
     company: "Pop Meals",
     date: "Des 2019 - Nov 2020",
@@ -273,7 +273,7 @@ export const experiences = [
   },
   {
     id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
+    img: "https://media.licdn.com/dms/image/C4E0BAQETXHHcFhWlZg/company-logo_100_100/0/1630631936397/rezbee_logo?e=1729123200&v=beta&t=ristyZk9NfJCAIJxBCcp0t3Y3q7y1bOBISjSG-ZX0BI",
     role: "Founder",
     company: "Rezbee",
     date: "Jan 2019 - Dec 2019",
@@ -288,7 +288,7 @@ export const experiences = [
   },
   {
     id: 4,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
+    img: "https://media.licdn.com/dms/image/D560BAQFeyhRq13ufxA/company-logo_100_100/0/1719846880166/publicissapient_logo?e=1729123200&v=beta&t=Y3tToMq2QbekuIpCvWXN6CBRFL53F5BE7I6jYMSsJRo",
     role: "Associate Data Scientist",
     company: "Publicis Sapient",
     date: "Jun 2019 - Nov 2019",
@@ -306,7 +306,7 @@ export const experiences = [
   },
   {
     id: 4,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
+    img: "https://media.licdn.com/dms/image/C4E0BAQFe309UnfiGBA/company-logo_100_100/0/1630601197822/letsmd_logo?e=1729123200&v=beta&t=wTFEQTGP7QR1XnbGz8OEwaKj6UMg_Pd4ibUSTgIPYS4",
     role: "Data Scientist Intern",
     company: "LetsMD",
     date: "Dec 2018 - May 2019",
@@ -345,7 +345,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://i0.wp.com/dpsbokaro.com/dpsn/wp-content/uploads/2023/02/Website-Logo-New.png?fit=2208%2C495&ssl=1",
     school: "Delhi Public School, Bokaro Steel City",
     date: "2014 - 2015",
     grade: "91.4%",
@@ -354,7 +354,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "",
     school: "Mount Assisi School, Bhagalpur",
     date: "2012 - 2013",
     grade: "95.3%",
